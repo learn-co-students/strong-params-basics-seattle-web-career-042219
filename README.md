@@ -15,7 +15,7 @@ In the Rails app in this lesson there is our blog application with Strong Params
 
 1. Right click and inspect the page
 2. Find the input for title. it should look like this: `<input type="text" value="asdferwer" name="post[title]" id="post_title">`
-3. Right click on choose "Edit as HTML"
+3. Right click that input and choose "Edit as HTML"
 4. Add in the following new Description field:
 
 ```
